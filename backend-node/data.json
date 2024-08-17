@@ -1,0 +1,143 @@
+[
+    {
+      "id": 1,
+      "make": "Toyota",
+      "model": "Corolla",
+      "year": 2020,
+      "color": "Blue"
+    },
+    {
+      "id": 2,
+      "make": "Toyota",
+      "model": "Camry",
+      "year": 2019,
+      "color": "Red"
+    },
+    {
+      "id": 3,
+      "make": "Honda",
+      "model": "Civic",
+      "year": 2018,
+      "color": "White"
+    },
+    {
+      "id": 4,
+      "make": "Honda",
+      "model": "Accord",
+      "year": 2021,
+      "color": "Black"
+    },
+    {
+      "id": 5,
+      "make": "Ford",
+      "model": "Focus",
+      "year": 2022,
+      "color": "Gray"
+    },
+    {
+      "id": 6,
+      "make": "Ford",
+      "model": "Fusion",
+      "year": 2020,
+      "color": "Silver"
+    },
+    {
+      "id": 7,
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "year": 2019,
+      "color": "Blue"
+    },
+    {
+      "id": 8,
+      "make": "Chevrolet",
+      "model": "Impala",
+      "year": 2021,
+      "color": "Green"
+    },
+    {
+      "id": 9,
+      "make": "Nissan",
+      "model": "Altima",
+      "year": 2022,
+      "color": "Black"
+    },
+    {
+      "id": 10,
+      "make": "Nissan",
+      "model": "Maxima",
+      "year": 2020,
+      "color": "White"
+    },
+    {
+      "id": 11,
+      "make": "Hyundai",
+      "model": "Elantra",
+      "year": 2019,
+      "color": "Red"
+    },
+    {
+      "id": 12,
+      "make": "Hyundai",
+      "model": "Sonata",
+      "year": 2021,
+      "color": "Gray"
+    },
+    {
+      "id": 13,
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "year": 2020,
+      "color": "Silver"
+    },
+    {
+      "id": 14,
+      "make": "Volkswagen",
+      "model": "Passat",
+      "year": 2018,
+      "color": "Blue"
+    },
+    {
+      "id": 15,
+      "make": "BMW",
+      "model": "3 Series",
+      "year": 2019,
+      "color": "White"
+    },
+    {
+      "id": 16,
+      "make": "BMW",
+      "model": "5 Series",
+      "year": 2021,
+      "color": "Black"
+    },
+    {
+      "id": 17,
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "year": 2022,
+      "color": "Red"
+    },
+    {
+      "id": 18,
+      "make": "Mercedes-Benz",
+      "model": "E-Class",
+      "year": 2020,
+      "color": "Silver"
+    },
+    {
+      "id": 19,
+      "make": "Audi",
+      "model": "A4",
+      "year": 2019,
+      "color": "Blue"
+    },
+    {
+      "id": 20,
+      "make": "Audi",
+      "model": "A6",
+      "year": 2021,
+      "color": "White"
+    }
+  ]
+  
